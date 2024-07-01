@@ -10,6 +10,17 @@ _**MENTOR:**_ G. Sarawani
 
 ### **E-Commerce Website Project Overview**
 
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/0c2a121a-9ddd-4bf4-81d4-6d0c3879d804)
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/f9dfe1ba-8a31-4a1f-8678-54b687ddfc09)
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/d7fef4b7-8ba1-410e-88c9-a1899ead10a0)
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/1491978b-683b-4044-9916-f07e4f9c5d1d)
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/ec715192-a0d7-4ae4-9fb8-1f1c61d9c466)
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/8013e2b2-10ff-4dc4-91f4-352eef7bbbca)
+![image](https://github.com/ShresthTheStudent/Codtech-Task-2-/assets/100932946/012639fa-f257-429c-8a79-dabb4b878532)
+
+
+
+
 #### Project Aim:
 The primary goal of this project is to develop a fully functional e-commerce platform that allows users to browse products, add them to a shopping cart, proceed to checkout, and manage their orders. The platform aims to provide a seamless and user-friendly shopping experience, complete with user account management and secure payment options.
 
