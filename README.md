@@ -1,9 +1,16 @@
 # Codtech-Task-2-
+
+
 _**NAME:**_ Shresth Kumar 
+
 _**COMPANY:**_ CodeTech IT Solutions 
+
 _**ID:**_ CT12WD153
+
 _**DOMAIN:**_ Web Developer  
+
 _**DURATION:**_ 14th May to 1st July 2024 
+
 _**MENTOR:**_ G. Sarawani 
 
 
